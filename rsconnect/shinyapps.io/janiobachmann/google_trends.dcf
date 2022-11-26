@@ -1,0 +1,13 @@
+name: google_trends
+title: google_trends
+username:
+account: janiobachmann
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7736681
+bundleId: 6557418
+url: https://janiobachmann.shinyapps.io/google_trends/
+when: 1669480648.39702
+lastSyncTime: 1669480648.39705
+asMultiple: FALSE
+asStatic: FALSE
